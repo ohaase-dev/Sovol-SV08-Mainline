@@ -392,7 +392,7 @@ To make life easier in the future we are going to flash Katapult to our MCUs. Th
    - Install pyserial with _(we need this later to flash the firmware)_<br>
 
    ```bash
-   pip3 install pyserial
+   sudo apt-get install python3-serial
    ```
 
 2. When it's done, do <br>
